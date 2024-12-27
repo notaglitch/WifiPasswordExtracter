@@ -36,7 +36,7 @@ See all the WIFI passwords on your computer
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/wifi-password-viewer.git
+git clone https://github.com/notaglitch/WifiPasswordExtracter.git
 ```
 
 ### 2. **Run the Tool**
@@ -44,7 +44,7 @@ git clone https://github.com/yourusername/wifi-password-viewer.git
 After cloning the repository, navigate to the directory where the script is located, and run it using Python:
 
 ```bash
-python wifi_password_viewer.py
+python main.py
 ```
 
 ### 3. **Interact with the Menu**
